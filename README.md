@@ -60,7 +60,7 @@ built and tested on), a free [Gemini API key](https://aistudio.google.com/app/ap
 git clone https://github.com/andyolivers/account-intel
 cd account-intel
 
-# 2. Create a clean virtual environment (not conda - see note below)
+# 2. Create a clean virtual environment
 python3.11 -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 
