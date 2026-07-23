@@ -57,7 +57,7 @@ built and tested on), a free [Gemini API key](https://aistudio.google.com/app/ap
 
 ```bash
 # 1. Clone and enter the repo
-git clone <your-repo-url>
+git clone https://github.com/andyolivers/account-intel
 cd account-intel
 
 # 2. Create a clean virtual environment (not conda - see note below)
